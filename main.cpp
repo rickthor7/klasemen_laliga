@@ -78,8 +78,8 @@ int main() {
     do {
         cout << "\nMenu Klasemen La Liga:" << endl;
         cout << "1. Input Data Klub" << endl;
-        cout << "2. Tampilkan Klasemen (Belum Sorting)" << endl;
-        cout << "3. Urutkan Klasemen (Quick Sort)" << endl;
+        cout << "2. Tampilkan Klasemen (Belum Sorting le)" << endl;
+        cout << "3. Urutkan Klasemen (pake Quick Sort)" << endl;
         cout << "4. Keluar" << endl;
         cout << "Pilih menu: ";
         cin >> pilihan;
